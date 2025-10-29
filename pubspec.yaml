@@ -1,0 +1,104 @@
+name: flutter_application_3
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.12.0
+  fl_chart: ^1.1.1
+  google_fonts: ^6.3.2
+
+  smooth_page_indicator: ^1.2.0
+  flutter_card_swiper: ^7.1.0
+ 
+  video_player: ^2.8.6
+  video_thumbnail: ^0.5.0
+  curve_bottom_nav_bar: ^0.0.1
+  path_provider: ^2.0.0
+  flutter_animate: ^4.5.0
+  image_picker: ^1.1.1
+  file_picker: ^10.3.3
+  shared_preferences: ^2.2.3
+ 
+
+  
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  
+
+flutter:
+  uses-material-design: true
+
+
+
+  assets:
+    # Include entire assets directory so model sample images and UI assets
+    # (coach1/2/.., club logos/banners, various icons) are bundled without
+    # listing every file. Use specific files only if you want to exclude some.
+  - assets/output_cricket_ball.mp4
+  - assets/fielding_1_fielding_output.mp4
+  - assets/batting_1_output.mp4
+  - assets/coach.png
+  - assets/coach2.png
+  - assets/coach3.png
+  - assets/coach4.png
+  - assets/coach5.png
+  - assets/coach6.png
+  - assets/Dri1.png
+  - assets/Dri2.png
+  - assets/Dri3.png
+  - assets/Dri4.png
+  - assets/Dri5.png
+  - assets/Dri6.png
+  - assets/Dri7.png
+  - assets/Dri8.png
+  - assets/Dri9.png
+  - assets/Dri10.png
+  - assets/Drill1.png
+  - assets/Drill2.png
+  - assets/Drill3.png
+  - assets/Drill4.png
+  - assets/fourth.png
+  - assets/home1.png
+  - assets/home3.png
+  - assets/home4.png
+  - assets/home2.png
+  - assets/profile1.png
+  - assets/profile3.png
+  - assets/profile4.png
+  - assets/profile5.png
+  - assets/profile7.png
+  - assets/profile8.png
+  - assets/second.png
+  - assets/sport.png
+  - assets/strike1.png
+  - assets/tejas1.png
+  - assets/tejas2.png
+  - assets/third1.png
+  - assets/trophy1.png
+  - assets/trophy2.png
+  - assets/trophy3.png
+  - assets/Logo1.png
+  - assets/Submit.png
+
+
+
+
+    
+
+
+
+    
+
+   
+
